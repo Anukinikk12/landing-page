@@ -3,6 +3,7 @@
     height: 361px;
     margin-top: 234px;
     margin-bottom: 140px;
+    
 
 }
 
@@ -10,12 +11,14 @@
     justify-content: space-between;
     width: 100%;
     max-width: 1380px;
+    
 }
 
 .component-4 h1 {
     font-size: 72px;
     font-family: 'Inter-bold';
     color: rgba(33, 37, 41, 1);
+    
 
 }
 
@@ -33,3 +36,4 @@
     background-color: rgba(196, 222, 253, 1);
     margin-top: 140px;
 }
+
