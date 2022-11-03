@@ -6,20 +6,21 @@
 
 }
 
-.component-4 {
+.component-5 {
+    flex-direction: row-reverse;
     justify-content: space-between;
     width: 100%;
     max-width: 1380px;
 }
 
-.component-4 h1 {
+.component-5 h1 {
     font-size: 72px;
     font-family: 'Inter-bold';
     color: rgba(33, 37, 41, 1);
 
 }
 
-.component-4 p {
+.component-5 p {
     font-size: 16px;
     font-family: 'Inter-regular';
     color: rgba(33, 37, 41, 1);
@@ -27,9 +28,8 @@
     line-height: 30px;
 }
 
-.rect-4 {
+.rect-5 {
     width: 679px;
     height: 498px;
-    background-color: rgba(196, 222, 253, 1);
     margin-top: 140px;
 }
