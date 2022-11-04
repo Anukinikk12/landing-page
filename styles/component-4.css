@@ -3,7 +3,7 @@
     height: 361px;
     margin-top: 234px;
     margin-bottom: 140px;
-    
+
 
 }
 
@@ -11,14 +11,14 @@
     justify-content: space-between;
     width: 100%;
     max-width: 1380px;
-    
+
 }
 
 .component-4 h1 {
     font-size: 72px;
     font-family: 'Inter-bold';
     color: rgba(33, 37, 41, 1);
-    
+    position: relative;
 
 }
 
@@ -37,3 +37,10 @@
     margin-top: 140px;
 }
 
+.component-4 h1 img {
+    position: absolute;
+    right: 284px;
+    top: 162px;
+    z-index: -1;
+    width: 200px;
+}
