@@ -1,0 +1,53 @@
+.component-11 .title-and-text h1 img {
+    position: absolute;
+    right: -35px;
+    top: 65px;
+    z-index: 2;
+}
+
+.component-11 {
+    background-color: #043873;
+    height: 750px;
+    width: 1921px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    padding: 0 220px;
+    align-items: center;
+}
+
+.component-11 h1,
+p {
+    color: white;
+    z-index: 3;
+    max-width: 800px;
+    text-align: left;
+}
+
+
+.component-11 .title-and-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.component-11 h1 {
+    margin-top: 0px;
+}
+
+.component-11 button {
+    margin-top: 60px;
+}
+
+.component-11 .title-and-text p {
+    width: 1200px;
+}
+
+.component-11 .bg {
+    position: absolute;
+    left: 0;
+}
