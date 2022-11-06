@@ -1,17 +1,19 @@
-.component-6 {
+.component-9 {
     justify-content: space-between;
+    display: flex;
+    align-items: center;
     width: 100%;
     max-width: 1380px;
 }
 
-.component-6 h1 {
+.component-9 h1 {
     font-size: 72px;
     font-family: 'Inter-bold';
     color: rgba(33, 37, 41, 1);
 
 }
 
-.component-6 p {
+.component-9 p {
     font-size: 16px;
     font-family: 'Inter-regular';
     color: rgba(33, 37, 41, 1);
@@ -19,17 +21,11 @@
     line-height: 30px;
 }
 
-.rect-6 {
-    width: 679px;
-    height: 498px;
-    background-color: rgba(196, 222, 253, 1);
-    margin-top: 140px;
-}
 
-.component-6 h1 img {
+.component-9 h1 img {
     position: relative;
-    right: -169px;
-    top: -73px;
+    right: -222px;
+    top: -59px;
     z-index: -1;
-    width: 261px;
+    width: 329px;
 }

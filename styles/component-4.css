@@ -1,21 +1,15 @@
-.text-and-button {
-    width: 600px;
-    height: 361px;
-    margin-top: 234px;
-    margin-bottom: 140px;
-
-}
-
 .component-4 {
     justify-content: space-between;
     width: 100%;
     max-width: 1380px;
+
 }
 
 .component-4 h1 {
     font-size: 72px;
     font-family: 'Inter-bold';
     color: rgba(33, 37, 41, 1);
+    position: relative;
 
 }
 
@@ -32,4 +26,12 @@
     height: 498px;
     background-color: rgba(196, 222, 253, 1);
     margin-top: 140px;
+}
+
+.component-4 h1 img {
+    position: absolute;
+    right: 115px;
+    top: 154px;
+    z-index: -1;
+    width: 487px;
 }

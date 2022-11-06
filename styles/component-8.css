@@ -1,0 +1,47 @@
+.component-8 .title-and-text h1 img {
+    position: absolute;
+    right: -35px;
+    top: 65px;
+    z-index: 2;
+}
+
+.component-8 {
+    background-color: #043873;
+    height: 574px;
+    width: 1921px;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+
+.component-8 h1,
+p {
+    color: white;
+    z-index: 3;
+}
+
+.component-8 .ჯგუფი {
+    position: absolute;
+    left: -50px;
+    top: -150px;
+}
+
+.component-8 .title-and-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.component-8 h1 {
+    margin-top: 0px;
+}
+
+.component-8 button {
+    margin-top: 60px;
+}
+
+.component-8 .title-and-text p {
+    width: 1200px;
+}
